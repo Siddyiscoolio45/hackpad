@@ -1,4 +1,5 @@
 After a lot of work, I present my macropad:
+
 <img width="428" height="415" alt="Screenshot 2025-12-31 at 12 22 12 AM" src="https://github.com/user-attachments/assets/4256df5d-c1ea-44d9-b8c9-df1e8301facf" />
 
 I wanted to create this macropad to speed up the work I do at my desk, and I mapped the macropad keys to my most used computer commands, like copy/paste, and undo/redo. 
@@ -17,7 +18,8 @@ Other information:
 
 | **Schematic** | **PCB** | **Case** |
 |:-------------:|:-------:|:--------:|
-| ![](<img width="656" height="437" alt="Screenshot 2025-12-31 at 12 23 03 AM" src="https://github.com/user-attachments/assets/55076b55-c989-4995-a5ca-f9a9340ee345" />) | ![](<img width="793" height="844" alt="Screenshot 2025-12-31 at 12 22 48 AM" src="https://github.com/user-attachments/assets/29943958-8882-4abf-a389-214694dc5f66" />) | ![](<img width="795" height="415" alt="Screenshot 2025-12-31 at 12 21 57 AM" src="https://github.com/user-attachments/assets/abed639f-70e8-4fc7-a305-d6e3546bb517" />) |
+| <img src="https://github.com/user-attachments/assets/55076b55-c989-4995-a5ca-f9a9340ee345" width="300"> | <img src="https://github.com/user-attachments/assets/29943958-8882-4abf-a389-214694dc5f66" width="300"> | <img src="https://github.com/user-attachments/assets/abed639f-70e8-4fc7-a305-d6e3546bb517" width="300"> |
+
 
 
 

@@ -15,13 +15,10 @@ BOM:
 
 Other information:
 
-| Schematic | PCB | Case |
---------------------
-| <img width="656" height="437" alt="Screenshot 2025-12-31 at 12 23 03 AM" src="https://github.com/user-attachments/assets/b1b610c4-062d-484d-ae31-fee691985ece" /> | <img width="793" height="844" alt="Screenshot 2025-12-31 at 12 22 48 AM" src="https://github.com/user-attachments/assets/0323a145-0c15-46d0-b0fc-82e6c169e42c" /> |<img width="795" height="415" alt="Screenshot 2025-12-31 at 12 21 57 AM" src="https://github.com/user-attachments/assets/c2d6cd55-edc2-4bda-9317-9e7b34d9a5a7" /> |
+| **Schematic** | **PCB** | **Case** |
+|:-------------:|:-------:|:--------:|
+| ![](<img width="656" height="437" alt="Screenshot 2025-12-31 at 12 23 03 AM" src="https://github.com/user-attachments/assets/55076b55-c989-4995-a5ca-f9a9340ee345" />) | ![](<img width="793" height="844" alt="Screenshot 2025-12-31 at 12 22 48 AM" src="https://github.com/user-attachments/assets/29943958-8882-4abf-a389-214694dc5f66" />) | ![](<img width="795" height="415" alt="Screenshot 2025-12-31 at 12 21 57 AM" src="https://github.com/user-attachments/assets/abed639f-70e8-4fc7-a305-d6e3546bb517" />) |
 
-| Schematic | PCB | Case |
-|----------|----------|----------|
-|  <img width="656" height="437" alt="Screenshot 2025-12-31 at 12 23 03 AM" src="https://github.com/user-attachments/assets/b1b610c4-062d-484d-ae31-fee691985ece" />  | <img width="793" height="844" alt="Screenshot 2025-12-31 at 12 22 48 AM" src="https://github.com/user-attachments/assets/0323a145-0c15-46d0-b0fc-82e6c169e42c" /> | <img width="795" height="415" alt="Screenshot 2025-12-31 at 12 21 57 AM" src="https://github.com/user-attachments/assets/c2d6cd55-edc2-4bda-9317-9e7b34d9a5a7" /> |
 
 
  

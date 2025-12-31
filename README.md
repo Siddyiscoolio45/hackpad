@@ -19,5 +19,10 @@ Other information:
 --------------------
 | <img width="656" height="437" alt="Screenshot 2025-12-31 at 12 23 03 AM" src="https://github.com/user-attachments/assets/b1b610c4-062d-484d-ae31-fee691985ece" /> | <img width="793" height="844" alt="Screenshot 2025-12-31 at 12 22 48 AM" src="https://github.com/user-attachments/assets/0323a145-0c15-46d0-b0fc-82e6c169e42c" /> |<img width="795" height="415" alt="Screenshot 2025-12-31 at 12 21 57 AM" src="https://github.com/user-attachments/assets/c2d6cd55-edc2-4bda-9317-9e7b34d9a5a7" /> |
 
+| Schematic | PCB | Case |
+|----------|----------|----------|
+|  <img width="656" height="437" alt="Screenshot 2025-12-31 at 12 23 03 AM" src="https://github.com/user-attachments/assets/b1b610c4-062d-484d-ae31-fee691985ece" />  | <img width="793" height="844" alt="Screenshot 2025-12-31 at 12 22 48 AM" src="https://github.com/user-attachments/assets/0323a145-0c15-46d0-b0fc-82e6c169e42c" /> | <img width="795" height="415" alt="Screenshot 2025-12-31 at 12 21 57 AM" src="https://github.com/user-attachments/assets/c2d6cd55-edc2-4bda-9317-9e7b34d9a5a7" /> |
+
+
  
 
